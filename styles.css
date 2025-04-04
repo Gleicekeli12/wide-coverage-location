@@ -1,0 +1,144 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    margin: 40px 0px 144px 60px;
+}
+
+
+
+.link-header {
+    font-weight: 400;
+    font-size: 16px;
+    color: #17233D;
+    letter-spacing: 0.88px;
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+
+.button-header {
+    background: #6FBF44;
+    width: 115px;
+    height: 55px;
+    top: 32px;
+    left: 420px;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.image-logo {
+    width: 596;
+    height: 500;
+    margin-left: 125px;
+    display: inline-block;
+
+}
+
+
+.section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+
+
+h1 {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 82px;
+    color: #161A49;
+    letter-spacing: 1px;
+}
+
+
+
+p {
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 33px;
+    color: #4B505A;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+    letter-spacing: 1px;
+}
+
+.link-main {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 34px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+}
+
+
+
+@media screen and (min-width:340px) and (max-width: 600px) {
+
+    header {
+        margin: 0;
+        padding: 0;
+        margin-bottom: 22px;
+    }
+
+    .link-header {
+        display: none;
+    }
+
+    header .button-header {
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        margin-top: 17px;
+        margin-left: 310px;
+    }
+
+    .section {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        width: 80%;
+        font-size: 30px;
+        line-height: 30px;
+        text-align: center;
+        margin-top: -200px;
+        margin-left: 45px;
+    }
+
+    p {
+        width: 85%;
+        font-size: 18px;
+        letter-spacing: 0.5px;
+        text-align: center;
+        margin: 29px 33px 26px;
+    }
+
+    .link-main {
+        margin-left: 160px;
+    }
+
+    .image-logo {
+        position: relative;
+        top: 450px;
+        width: 312px;
+        height: 288px;
+        margin-left: 60px;
+    }
+}
