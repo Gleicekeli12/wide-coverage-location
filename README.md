@@ -38,6 +38,13 @@ Apresenta uma interface simples e direta com navegação clara e design responsi
 
   3. Abra o arquivo `index.html` no navegador.
 
+> Dica: você pode simplesmente clicar duas vezes no arquivo `index.html` ou usar uma extensão como o **Live Server** no VS Code.
+
+<img src="https://github.com/Gleicekeli12/wide-coverage-location/blob/main/resposividade-wide.PNG?raw=true" alt="mobile" width="200"/>
+
+<img src="https://github.com/Gleicekeli12/wide-coverage-location/blob/main/projeto-css-wide.PNG?raw=true" alt="desktop" width="450"/>
+
+
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
 <img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
